@@ -7,10 +7,10 @@
 <br />
   
 <p align="center">
-  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" height="300"/>
+  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" height="250"/>
 </p>
 
-<h1 align="center">Welcome to my profile</h1>
+<h1 align="center">Welcome to my profile!</h1>
 
 ### Programming Languages
 
