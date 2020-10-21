@@ -10,11 +10,7 @@
   <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" height="300"/>
 </p>
 
-<br />
-
 <h1 align="center">Welcome to my profile</h1>
-
-<br />
 
 ### Programming Languages
 
