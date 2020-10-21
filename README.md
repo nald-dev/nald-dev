@@ -43,3 +43,5 @@
 - 🌇🏙 Being mobile engineer by the day, then being any engineer by the night.
 
 - 😉 And by the way, **NICE TO SEE YOU HERE!!!** 🙌
+
+<img src="./wave.png" width="100%"/>
