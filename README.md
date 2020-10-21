@@ -1,8 +1,20 @@
-<a href="https://github.com/rynvva"><img src="http://ForTheBadge.com/images/badges/powered-by-electricity.svg"/></a>
-<a href="https://github.com/rynvva"><img src="https://visitor-badge.laobi.icu/badge?page_id=rynvva.rynvva" width="82" height="20"/></a>
-<a href="https://github.com/rynvva"><img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" height="18.5"/></a>
+<p align="center">
+  <img src="http://ForTheBadge.com/images/badges/powered-by-electricity.svg"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rynvva.rynvva" width="82" height="20"/>
+  <img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" height="18.5"/>
+</p>
 
-# Hi there 👋, Welcome to my profile...
+<br />
+  
+<p align="center">
+  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" height="300"/>
+</p>
+
+<br />
+
+<h1 align="center">Welcome to my profile</h1>
+
+<br />
 
 ### Programming Languages
 
