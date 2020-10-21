@@ -29,6 +29,8 @@
 ### Platforms
 
 <p>
+  <img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/classic/npm-2009.png" height=25/>
+  
   <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
