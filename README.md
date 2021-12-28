@@ -50,14 +50,9 @@
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/></a>
 
-### Also...
+### Get In Touch
 
-- 🌱 Learning life, management and efficiency.
-
-- 🔍 Looking to collaborate on public projects when possible.
-
-- 🌇🏙 Being mobile engineer by the day, then being any engineer by the night.
-
-- 😉 And by the way, **NICE TO SEE YOU HERE!!!** 🙌
+- <a href="https://www.linkedin.com/in/reynald-prabha-nova/">LinkedIn</a>
+- <a href="mailto:reynaldpn@gmail.com">Email Me</a>
 
 <img src="./wave.png" width="100%"/>
