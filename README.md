@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" height="250"/>
 </p>
 
-<h1 align="center">Welcome to my profile!</h1>
+<h1 align="center">Hello there, welcome!</h1>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rynvva.rynvva" width="120" height="30"/>
@@ -54,5 +54,4 @@
 
 - <a href="https://www.linkedin.com/in/reynald-prabha-nova/">LinkedIn</a>
 - <a href="mailto:reynaldpn@gmail.com">Email Me</a>
-
 <img src="./wave.png" width="100%"/>
