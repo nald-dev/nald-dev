@@ -54,4 +54,6 @@
 
 - <a href="https://www.linkedin.com/in/reynald-prabha-nova/">LinkedIn</a>
 - <a href="mailto:reynaldpn@gmail.com">Email Me</a>
+- <a href="https://nald-dev.herokuapp.com/">Website</a>
+
 <img src="./wave.png" width="100%"/>
