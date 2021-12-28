@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" height="250"/>
 </p>
 
-<h1 align="center">Hello there, welcome!</h1>
+<h1 align="center">👋 Welcome!</h1>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rynvva.rynvva" width="120" height="30"/>
