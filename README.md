@@ -44,6 +44,7 @@
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/rynvva"><img src="https://miro.medium.com/max/1200/1*qdyIUswy9X5SxSR2tzrIJw.png" height="25"/></a>
 <a href="https://github.com/rynvva"><img src="https://nx.dev/documentation/latest/shared/storybook-logo.png" height="25"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/></a>
