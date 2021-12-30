@@ -40,13 +40,14 @@
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/></a>
+<a href="https://github.com/rynvva"><img src="https://miro.medium.com/max/1200/1*qdyIUswy9X5SxSR2tzrIJw.png" height="25"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/rynvva"><img src="https://miro.medium.com/max/1200/1*qdyIUswy9X5SxSR2tzrIJw.png" height="25"/></a>
-<a href="https://github.com/rynvva"><img src="https://nx.dev/documentation/latest/shared/storybook-logo.png" height="25"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></a>
+<a href="https://github.com/rynvva"><img src="https://curl.se/logo/curl-logo.jpg" height="25"/></a>
+<a href="https://github.com/rynvva"><img src="https://nx.dev/documentation/latest/shared/storybook-logo.png" height="25"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/></a>
