@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" height="250"/>
-</p>
-
 <h1 align="center">👋 Welcome!</h1>
 
 <p align="center">
