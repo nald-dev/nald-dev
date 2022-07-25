@@ -51,10 +51,4 @@
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/></a>
 
-### Get In Touch
-
-- <a href="https://www.linkedin.com/in/reynald-prabha-nova/">LinkedIn</a>
-- <a href="mailto:reynaldpn@gmail.com">Email Me</a>
-- <a href="https://nald-dev.herokuapp.com/">Website</a>
-
 <img src="./wave.png" width="100%"/>
