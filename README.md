@@ -12,7 +12,7 @@
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-<a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>
+<a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
 
@@ -31,6 +31,8 @@
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></a>
+<a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/></a>
@@ -41,10 +43,8 @@
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://miro.medium.com/max/1200/1*qdyIUswy9X5SxSR2tzrIJw.png" height="25"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/></a>
-<a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></a>
 <a href="https://github.com/rynvva"><img src="https://curl.se/logo/curl-logo.jpg" height="25"/></a>
 <a href="https://github.com/rynvva"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgycFxM3cl0tf-WM_rDuuS6dsKAxVs2iAUg3pPnIUm8a5-QlejopHtYHT5dHy_IcqbSHk&usqp=CAU" height="25"/></a>
 <a href="https://github.com/rynvva"><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/></a>
